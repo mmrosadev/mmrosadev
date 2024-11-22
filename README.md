@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as fullstack developer and programming instructor.
 - 🌱 JavaScript, Typescript, React, NodeJS, React Native and Python.
-- :e-mail: mmrosatab@hotmail.com
-- :raising_hand: https://www.linkedin.com/in/mmrosatab/
+- :raising_hand: https://mmrosatab.github.io
+- :raising_hand: https://www.linkedin.com/in/mmrosatab
 
 
 
